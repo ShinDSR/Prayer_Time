@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Prayer Time</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="Pass">Password</string>
+    <string name="btnsignin">SIGN-IN</string>
+    <string name="register">Register</string>
+    <string name="btnregister">REGISTER</string>
+    <string name="repass">Re-password</string>
+</resources>
